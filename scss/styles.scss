@@ -1,3 +1,10 @@
 * {
   box-sizing: border-box;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700&family=Nunito:wght@300;700&display=swap");
+
+.h1 {
+  color: hsl(300, 43%, 22%);
+  font-family: "League Spartan", sans-serif;
+}
