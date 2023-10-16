@@ -31,4 +31,14 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 0;
+  text-align: center;
+}
+
+.list {
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 1rem;
+}
+
+.prueba {
+  background-color: hsl(300, 43%, 22%);
 }
